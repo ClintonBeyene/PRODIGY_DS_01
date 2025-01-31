@@ -1,19 +1,21 @@
 ---
 
-# Data Analysis: Task Overview
+# World Population Distribution Analysis
 
-This repository contains the work for world population distribution analysis, which focuses on visualizing the distribution of a categorical or continuous variable.
+This repository contains the work for analyzing the world population distribution, focusing on visualizing the distribution of a categorical or continuous variable.
 
 ## Task Overview
 
-The task involves creating a bar chart or histogram to represent the distribution of a variable. This could be the distribution of attributes such as age or gender in a population dataset, helping to understand patterns and trends within the data.
+The task involves creating a bar chart or histogram to represent the distribution of a variable, such as age or gender, within the world population dataset. This visualization helps uncover trends and patterns in the data.
 
 ## Connect with Me
 
-Feel free to explore the repository and provide feedback. If you have any questions or want to discuss data analysis, don't hesitate to reach out.
+Feel free to explore the repository and provide feedback. If you have any questions or want to discuss data analysis, feel free to reach out.
 
 ## Contact Information
 
 For inquiries or collaborations, you can contact me via:
 
 Email: clintonbeyene52@gmail.com  
+
+---
